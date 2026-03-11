@@ -1,4 +1,8 @@
 # Changelog
+## 0.1.7 (Alpha)
+### March 11, 2026
+* Updated a centered navbar
+---
 ## 0.1.6 (Alpha)
 ### March 11, 2026
 * Fixing the navbar background color of primary in `index.html` cause: navbar displayed on website cannot appeared background color
