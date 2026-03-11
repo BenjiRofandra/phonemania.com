@@ -1,4 +1,8 @@
 # Changelog
+# 0.1.5 (Alpha)
+### March 11, 2026
+* Changing the navbar color as primary blue in `index.html`
+---
 ## 0.1.4 (Alpha)
 ### March 11, 2026
 * Rename as Android wordmark's font from 2015 in `--bs-body-font-family` from `app.css`
