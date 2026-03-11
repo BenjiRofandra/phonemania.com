@@ -1,4 +1,8 @@
 # Changelog
+## 0.1.8 (Alpha)
+### March 11, 2026
+* Fix primary color on centered navbar
+---
 ## 0.1.7 (Alpha)
 ### March 11, 2026
 * Updated a centered navbar
