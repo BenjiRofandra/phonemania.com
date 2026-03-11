@@ -1,4 +1,8 @@
 # Changelog
+## 0.1.4 (Alpha)
+### March 11, 2026
+* Rename as Android wordmark's font from 2015 in `--bs-body-font-family` from `app.css`
+---
 ## 0.1.3 (Alpha)
 ### March 11, 2026
 * Added Android 2015 wordmark's typeface/font
