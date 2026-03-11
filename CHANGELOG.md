@@ -1,6 +1,11 @@
 # Changelog
+## 0.1.3 (Alpha)
+### March 11, 2026
+* Added Android 2015 wordmark's typeface/font
+* Remove the Google Fonts CDN in `<head>` element
+---
 ## 0.1.2 (Alpha)
-### March 10, 2026
+### March 11, 2026
 * Added a CDN of Roboto with Google Fonts
 * Fix `<head>` element about renamed from Crimson Pro to Roboto font
 ---
