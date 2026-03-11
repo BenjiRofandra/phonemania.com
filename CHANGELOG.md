@@ -1,5 +1,9 @@
 # Changelog
-# 0.1.5 (Alpha)
+## 0.1.6 (Alpha)
+### March 11, 2026
+* Fixing the navbar background color of primary in `index.html` cause: navbar displayed on website cannot appeared background color
+---
+## 0.1.5 (Alpha)
 ### March 11, 2026
 * Changing the navbar color as primary blue in `index.html`
 ---
