@@ -1,4 +1,9 @@
 # Changelog
+## 0.1.2 (Alpha)
+### March 10, 2026
+* Added a CDN of Roboto with Google Fonts
+* Fix `<head>` element about renamed from Crimson Pro to Roboto font
+---
 ## 0.1.1 (Alpha)
 ### March 10, 2026
 * Added `index.html`
