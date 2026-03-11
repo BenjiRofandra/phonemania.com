@@ -1,4 +1,8 @@
 # Changelog
+## 0.1.1 (Alpha)
+### March 10, 2026
+* Added `index.html`
+---
 ## 0.1 (Alpha)
 ### March 10, 2026
 * Updated an `app.css`:
