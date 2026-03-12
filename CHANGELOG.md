@@ -1,4 +1,8 @@
 # Changelog
+## 0.2.0 (Alpha)
+### March 12, 2026
+* Add work in progress images to card grids
+---
 ## 0.1.9 (Alpha)
 ### March 12, 2026
 * Updated navbar
@@ -38,7 +42,7 @@
 ### March 10, 2026
 * Added `index.html`
 ---
-## 0.1 (Alpha)
+## 0.1.0 (Alpha)
 ### March 10, 2026
 * Updated an `app.css`:
 * * **COLORS**
