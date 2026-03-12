@@ -1,4 +1,9 @@
 # Changelog
+## 0.2.1 (Alpha)
+### March 12, 2026
+* Resize the image on cards
+* Use margins to your card grids
+---
 ## 0.2.0 (Alpha)
 ### March 12, 2026
 * Add work in progress images to card grids
