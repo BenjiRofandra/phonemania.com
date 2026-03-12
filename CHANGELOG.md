@@ -1,4 +1,9 @@
 # Changelog
+## 0.1.9 (Alpha)
+### March 12, 2026
+* Updated navbar
+* Added cards with grids
+---
 ## 0.1.8 (Alpha)
 ### March 11, 2026
 * Fix primary color on centered navbar
