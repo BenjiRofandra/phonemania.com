@@ -1,4 +1,8 @@
 # Changelog
+---
+## March 25, 2026
+* Added website footer
+---
 ## March 15, 2026
 * Added Roboto font
 ---
