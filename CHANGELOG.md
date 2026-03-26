@@ -1,5 +1,8 @@
 # Changelog
 ---
+## March 26, 2026
+* Added favicon
+---
 ## March 25, 2026
 * Added website footer
 ---
