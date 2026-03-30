@@ -4,6 +4,7 @@
 * Changed the early navbar to new navbar (Navbar with container XL)
 * Fix colors on navbar
 * Fixing the color issue on navbar
+* Fixing the navbar background color again
 ---
 ## March 26, 2026
 * Added favicon
