@@ -138,7 +138,7 @@
 
 body {
     margin: 0;
-    font-family: var(--bs-body-font-family);
+    font-family: 'Roboto','Roboto Slab Black','and',sans-serif;
     font-size: var(--bs-body-font-size);
     font-weight: var(--bs-body-font-weight);
     line-height: var(--bs-body-line-height);
@@ -161,57 +161,66 @@ hr {
     margin-top: 0;
     margin-bottom: .5rem;
     font-weight: 500;
-    font-family: 'and',sans-serif
     line-height: 1.2;
     color: var(--bs-heading-color)
 }
 
 .h1,h1 {
     font-size: calc(1.375rem + 1.5vw)
+    font-family: 'Roboto Flex Black',sans
 }
 
 @media (min-width: 1200px) {
     .h1,h1 {
         font-size:2.5rem
+        font-family: 'Roboto Flex Black',sans
     }
 }
 
 .h2,h2 {
     font-size: calc(1.325rem + .9vw)
+    font-family: 'Roboto Flex Black',sans
 }
 
 @media (min-width: 1200px) {
     .h2,h2 {
         font-size:2rem
+        font-family: 'Roboto Flex Black',sans
     }
 }
 
 .h3,h3 {
     font-size: calc(1.3rem + .6vw)
+    font-family: 'and',sans
 }
 
 @media (min-width: 1200px) {
     .h3,h3 {
         font-size:1.75rem
+        font-family: 'and',sans
     }
 }
 
 .h4,h4 {
     font-size: calc(1.275rem + .3vw)
+    font-family: 'and',sans
 }
 
 @media (min-width: 1200px) {
     .h4,h4 {
         font-size:1.5rem
+        font-family: 'and',sans
     }
 }
 
 .h5,h5 {
     font-size: 1.25rem
+    font-family: 'and',sans
 }
 
 .h6,h6 {
     font-size: 1rem
+    font-family: 'and',sans
 }
 
 p {
