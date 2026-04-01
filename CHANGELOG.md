@@ -1,5 +1,8 @@
 # Changelog
 ---
+## April 1, 2026
+* Added right button in navbar
+---
 ## March 30, 2026
 * Changed the early navbar to new navbar (Navbar with container XL)
 * Fix colors on navbar
