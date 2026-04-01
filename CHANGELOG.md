@@ -2,6 +2,7 @@
 ---
 ## April 1, 2026
 * Added right button in navbar
+* Updated the typing styles: typefaces and fonts
 ---
 ## March 30, 2026
 * Changed the early navbar to new navbar (Navbar with container XL)
