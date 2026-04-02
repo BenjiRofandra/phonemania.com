@@ -1,5 +1,8 @@
 # Changelog
 ---
+April 2, 2026
+* Fixing issue the dark color of a navbar's color
+---
 ## April 1, 2026
 * Added right button in navbar
 * Updated the typing styles: typefaces and fonts
