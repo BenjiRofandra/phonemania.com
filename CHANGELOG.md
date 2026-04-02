@@ -1,7 +1,8 @@
 # Changelog
 ---
-April 2, 2026
+## April 2, 2026
 * Fixing issue the dark color of a navbar's color
+* Updated the cards on homepage
 ---
 ## April 1, 2026
 * Added right button in navbar
