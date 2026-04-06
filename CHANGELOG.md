@@ -1,5 +1,8 @@
 # Changelog
 ---
+## April 6, 2026
+* Fixing and replacing a darkest color of the navigation bar
+---
 ## April 2, 2026
 * Fixing issue the dark color of a navbar's color
 * Updated the cards on homepage
