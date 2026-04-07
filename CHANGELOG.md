@@ -2,6 +2,7 @@
 ---
 ## April 7, 2026
 * Removing a top border in footer
+* Update heading 5 to heading 2 in the navbar
 ---
 ## April 6, 2026
 * Fixing and replacing a darkest color of the navigation bar
