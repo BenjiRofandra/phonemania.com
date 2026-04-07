@@ -1,6 +1,6 @@
 # Changelog
 ---
-## APril 7, 2026
+## April 7, 2026
 * Removing a top border in footer
 ---
 ## April 6, 2026
