@@ -1,5 +1,8 @@
 # Changelog
 ---
+## APril 7, 2026
+* Removing a top border in footer
+---
 ## April 6, 2026
 * Fixing and replacing a darkest color of the navigation bar
 * Add padding styles to the new cards with CSS styles in HTML's element
